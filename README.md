@@ -18,7 +18,7 @@
      </div>
   
 <h1>
-  hey there
+  hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="left">
@@ -27,9 +27,10 @@
 ### :man_scientist: About Me :
 I am a plant biology researcher <img src="https://media.giphy.com/media/stYnZNptINFsY/giphy.gif" width="30"> from India:india:.  
 
-- 🔭 I’m currently working on genomic data set to understand stress biology of plant and evolution of genes.
+- 🔭 I’m  working on genomic data set to understand stress biology of plant and evolution of genes.
 - 🌱 I’m currently learning integration of genomic dataset
 - 👯 I’m looking to collaborate on genome wide phylogeny analysis of plant
+- :dna: I can handle wet lab work as well like nucleic acid isolation, (q)PCR, plant growth and stress treatment etc...
 
 ---
 
