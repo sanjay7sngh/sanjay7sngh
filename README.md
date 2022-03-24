@@ -30,8 +30,8 @@ I am a plant biology researcher <img src="https://media.giphy.com/media/stYnZNpt
 - 🔭 I’m  working on genomic data set to understand stress biology of plant and evolution of genes.
 - 🌱 I’m currently learning integration of genomic dataset
 - 👯 I’m looking to collaborate on genome wide phylogeny analysis of plant
-- :dna: I can handle wet lab work as well like nucleic acid isolation, (q)PCR, plant growth and stress treatment etc...
-
+- :dna: I am basically a biotechnologist so I can handle wet lab work as well like nucleic acid isolation, (q)PCR, plant growth and stress treatment etc...
+- :night_with_stars: In my leisure time I read :books: and watch 📺 movies.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
