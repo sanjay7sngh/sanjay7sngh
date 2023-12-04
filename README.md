@@ -6,7 +6,7 @@
 <div align="left">
 ---
 
-### :man_scientist: About Me :
+:man_scientist: About Me :
 I am a plant biology researcherfrom India:india:.  
 
 - 🔭 I’m  working on genomic data set to understand stress biology of plant.
