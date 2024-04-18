@@ -7,12 +7,12 @@
 ---
 
 :man_scientist: About Me :
-I am a plant biology researcherfrom India:india:.  
+I am a plant biology researcher from India:india:.  
 
 - 🔭 I’m  working on genomic data set to understand stress biology of plant.
 - 🌱 I’m currently working on integration of omic dataset to understang plant biology.
 - 👯 I’m looking to collaborate on genome wide phylogeny analysis of plant
-- :dna: I am basically a biotechnologist so I can handle wet lab work as well like nucleic acid isolation, (q)PCR, plant growth and stress treatment etc...
+- :dna: I am basically a biotechnologist so I am trained in bench work as well like nucleic acid isolation, (q)PCR, cloning, plant growth and stress treatment etc...
 - :night_with_stars: In my leisure time I read :books: and watch 📺 movies.
 ---
 
