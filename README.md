@@ -12,7 +12,7 @@ I am a plant biology researcher from India 🇮🇳
 - 🌱 I’m currently working on integration of omic dataset to understang plant biology.
 - 👯 I’m looking to collaborate on genome wide phylogeny analysis of plant
 - :dna: I am basically a biotechnologist so I am trained in bench work as well like nucleic acid isolation, (q)PCR, cloning, plant growth and stress treatment etc...
-- :night_with_stars: In my leisure time I read :books: and watch 📺 movies.
+- :night_with_stars: In my leisure time I read :books: and watch 📺 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
