@@ -6,7 +6,7 @@
 <div align="left">
   
 :man_scientist: About Me :
-I am a plant biology researcher from India :india  
+I am a plant biology researcher from India 🇮🇳
 
 - 🔭 I’m  working on genomic data set to understand stress biology of plant.
 - 🌱 I’m currently working on integration of omic dataset to understang plant biology.
