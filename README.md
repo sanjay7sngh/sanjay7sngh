@@ -5,7 +5,6 @@
 </h1>
 <div align="left">
 ---
-
 :man_scientist: About Me :
 I am a plant biology researcher from India:india:.  
 
